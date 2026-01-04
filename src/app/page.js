@@ -27,7 +27,7 @@ export default function Home() {
         </header>
         <main className="px-8 md:flex w-full md:px-10 lg:px-25 ">
           <section className="text-center w-full md:mt-6 md:w-6/12">
-            <h1 className=" font-bold text-gray-800 text-4xl px-3.5 lg:px-20 my-4 leading-12 md:leading-15 tracking-wide  lg:text-6xl">
+            <h1 className=" font-bold text-gray-800 text-4xl px-3.5 lg:px-20 my-4 leading-10 md:leading-15 tracking-wide  lg:text-6xl">
               We’re here to Increase your Productivity
             </h1>
             <Image
